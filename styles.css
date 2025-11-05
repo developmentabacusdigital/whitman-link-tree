@@ -236,6 +236,11 @@ body {
     height: 24px;
 }
 
+.website-link .link-logo {
+    object-fit: cover;
+    border-radius: 50%;
+}
+
 .link-text {
     flex: 1;
     text-align: left;
